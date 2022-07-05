@@ -1,4 +1,3 @@
 # testing-repository-gh
 
-Testing
-Testing 2
+Testowy plik do tworzenia commitów!
