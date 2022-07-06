@@ -1,7 +1,7 @@
 /logs
 #*/.html
 #index2.html
-*.html
+#*.html
 #test1.txt
 #/test
 #*/test_in_test
