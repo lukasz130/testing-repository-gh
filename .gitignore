@@ -1,4 +1,6 @@
 /logs
+.idea
+/node_modules
 #*/.html
 #index2.html
 #*.html
